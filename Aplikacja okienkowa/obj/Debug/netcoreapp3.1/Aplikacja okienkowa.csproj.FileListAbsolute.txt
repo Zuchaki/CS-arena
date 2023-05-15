@@ -1,0 +1,17 @@
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\bin\Debug\netcoreapp3.1\Aplikacja okienkowa.exe
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\bin\Debug\netcoreapp3.1\Aplikacja okienkowa.deps.json
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\bin\Debug\netcoreapp3.1\Aplikacja okienkowa.runtimeconfig.json
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\bin\Debug\netcoreapp3.1\Aplikacja okienkowa.runtimeconfig.dev.json
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\bin\Debug\netcoreapp3.1\Aplikacja okienkowa.dll
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\bin\Debug\netcoreapp3.1\Aplikacja okienkowa.pdb
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.csproj.GenerateResource.cache
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.AssemblyInfoInputs.cache
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.AssemblyInfo.cs
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.dll
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.pdb
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja okienkowa.genruntimeconfig.cache
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja_okienkowa.Arena.resources
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja_okienkowa.Properties.Resources.resources
+C:\Users\barte\source\repos\Aplikacja okienkowa\Aplikacja okienkowa\obj\Debug\netcoreapp3.1\Aplikacja_okienkowa.Form2.resources
